@@ -33,3 +33,5 @@ This project demonstrates task creation, editing, deletion, local persistence us
 <img width="400" height="1200" alt="HomeScreenDark" src="https://github.com/user-attachments/assets/06d7d1e7-4d6e-4523-bd39-9e846c03105f" />
 
 ### 🎥 App Demo Video
+https://github.com/user-attachments/assets/be329871-6aef-4813-928b-8dc33c405fc0
+
