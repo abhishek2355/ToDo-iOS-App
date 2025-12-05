@@ -1,8 +1,7 @@
-//
-//  TaskPriority.swift
-//  ToDo
-//
-//  Created by Abhishek Raut on 30/11/25.
-//
-
 import Foundation
+
+enum TasksPriority: String, Codable, CaseIterable {
+    case low
+    case medium
+    case high
+}

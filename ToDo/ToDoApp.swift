@@ -1,17 +1,12 @@
-//
-//  ToDoApp.swift
-//  ToDo
-//
-//  Created by Abhishek Raut on 30/11/25.
-//
-
 import SwiftUI
+import SwiftData
 
 @main
 struct ToDoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
+        .modelContainer(for: TaskModel.self)
     }
 }
